@@ -1,6 +1,6 @@
-Hi, I’m @Balvald
-I’m currently learning Vulkan
-You can reach me with derbalvald@gmail.com
+- Hi, I’m @Balvald
+- I’m currently learning Vulkan
+- You can reach me with derbalvald@gmail.com
 
 <!---
 Balvald/Balvald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
