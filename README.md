@@ -1,5 +1,5 @@
 - Hi, I’m @Balvald
-- I’m currently learning Vulkan
+- I’m currently programming stuff with Vulkan
 - You can reach me with derbalvald@gmail.com
 
 <!---
